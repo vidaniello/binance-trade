@@ -12,6 +12,13 @@
 
    <dependencies>
 
+		<dependency>
+		  <groupId>com.binance.api</groupId>
+		  <artifactId>binance-api-client</artifactId>
+		  <version>1.0.1</version>
+		</dependency>
+
+
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
 		    <groupId>junit</groupId>
